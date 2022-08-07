@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShiftLove
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to become and expert at ma home learning
+- 💞️ I’m looking to become and expert at machine learning
 - 📫 How to reach me ...
 
 <!---
